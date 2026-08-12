@@ -1,4 +1,4 @@
-# 👋 Hola, soy Celeste Dussan
+# 👋 Hola, soy Maria Celeste Dussan Ospina
 
 🎓 Estudiante de **Ingeniería de Sistemas**  
 💻 Apasionada por la tecnología y el aprendizaje  
