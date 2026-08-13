@@ -1,3 +1,8 @@
+<!--
+[CONFIG]
+FULL_NAME: Maria Celeste Dussan Ospina
+GITHUB_USER: CelesteDussan
+-->
 # 👋 Hola, soy Maria Celeste Dussan Ospina
 
 🎓 Estudiante de **Ingeniería de Sistemas**  
