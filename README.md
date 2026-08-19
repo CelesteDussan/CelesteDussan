@@ -1,5 +1,5 @@
 <!--
-[CONFIG]
+CONFIG
 FULL_NAME: Maria Celeste Dussan Ospina
 GITHUB_USER: CelesteDussan
 -->
